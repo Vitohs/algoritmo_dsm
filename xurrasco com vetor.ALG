@@ -8,6 +8,7 @@ Var
    media:real
    controle: inteiro
 Inicio
+
    escreval("vai ser pra quantas pessoas esse bglh ai ?: ")
    leia(controle)
    para i de 1 ate 2 faca
